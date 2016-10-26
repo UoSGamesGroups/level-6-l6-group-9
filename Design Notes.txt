@@ -1,0 +1,24 @@
+
+	//Design notes
+	
+	//Puzzle Ideas
+	- Radio Tuning Puzzle
+	- Bells + Perspective Puzzle
+	- Piano + Message Puzzle
+	- Music sheet ordering puzzle
+	
+	//Antagonist notes
+	- "Hunter" + Hunting memrobilla around the place / Cricket bat / Empty plaque reserved for you
+	
+	//Enviroment notes
+	- Less light as go down further? (Descent into hell?)
+	- Gating/Puzzle mechanics at the end of each floor
+	
+	//Questions
+	- Why is MC there? (Left ambigous for immersion purposes)
+	- Why are we "Escaping?"
+	- What elements of fear are we trying to evoke?
+	
+	//Misc
+	- Borrow audio recorder from Tech Store - "Ricky Grove Audio Recording Tips"
+	- Bring papers to Dave meetings (etc)
