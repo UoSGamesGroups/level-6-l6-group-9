@@ -7,6 +7,11 @@
 	- Piano + Message Puzzle
 	- Music sheet ordering puzzle
 	
+	//New Puzzle Ideas
+	- Riddle, answer on one of like 30 boxes spread out in a room
+	- Open right box for the door key, open the wrong one and just get a klaxon/noisemaker thing.
+	- Even right box has one, all noise to lure antagonist regardless
+	
 	//Antagonist notes
 	- "Hunter" + Hunting memrobilla around the place / Cricket bat / Empty plaque reserved for you
 	
