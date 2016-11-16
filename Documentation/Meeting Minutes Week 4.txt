@@ -1,0 +1,30 @@
+L6 - Group 9 - Minutes - 16/11/2016
+
+Max Bovis, Henry Hardy, Junior Shonowo, Rob Kurta, Steve Harrison
+
+What Went Well:
+
+ - Presentation; Rob and Steve liked it, very few questions
+ - Tasks assigned quickly and without problem
+ - Work flow consistent
+
+Issues:
+
+ - Uploading work onto Github (Max)
+ - Number of hours spent working on project (Low due to Junior recently joining project and
+   being sure of project before start)
+
+Feedback:
+
+ - Reduce the amount of game planned; 2 minutes of great game is more desirable than 10 
+   minutes of okay game
+
+Plan For The Week:
+
+Max - In-depth level design (asset placement and visuals)
+    - Continue creating and/or finding sound effects
+
+Henry - Implement level designs in the prototype
+      - Begin working on the puzzle mechanics
+
+Junior - Continue modelling and texturing assets for the game
