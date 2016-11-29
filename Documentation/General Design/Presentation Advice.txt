@@ -1,0 +1,10 @@
+
+	//Pitch Points
+	
+	- Less Text
+	- Elaboration on how we plan to cause our intented emotions
+	- Include prototype/gameplay
+	- Mechanic flowchart
+	- Asset list
+	- Level designs
+	- Be confident, deal in absolutes

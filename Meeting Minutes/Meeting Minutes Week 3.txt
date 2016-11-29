@@ -1,0 +1,33 @@
+L6 - Group 9 - Minutes - 09/11/2016
+
+Max Bovis, Henry Hardy, Junior Shonowo, Rob Kurta
+
+What Went Well:
+
+ - Informed Rob about the vision for the game
+ - Rob more aware of where the game is
+ - Rough floor plans uploaded
+ - AI acting more sinisterly than expected
+ - Character model on its way to completion
+ - Came up with new puzzle mechanic that allow for variety within system
+
+Issues:
+
+ - Sort Github into folders (Minutes, Presentations, Build etc)
+ - Take minutes for meetings
+ - When committing, describe how much time spent on task
+
+Feedback:
+
+ - Make sure everyone in the group understands the final goal
+ - Try not to focus on doing too many assets
+ - Don't sacrifice gameplay for assets
+
+Plan For The Week:
+
+Junior - Model and texture assets
+
+Max - Create/find miscellaneous sound effects - Update presentation
+
+Henry - Finish sounds detection AI - General code tweaking
+
