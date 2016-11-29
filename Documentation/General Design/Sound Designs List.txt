@@ -1,0 +1,55 @@
+Sounds and Music Lists v1
+
+Miscellaneous Sounds:
+
+ - Door opening
+
+ - Door closing
+
+ - Door creaking?
+
+ - Wine bottle hitting wall/floor
+
+ - Wine bottle smashing
+
+ - Rubble hitting wall/floor
+
+ - Mouse squeaking?
+
+ - Lights flickering?
+
+ - Flies buzzing
+
+ - Dripping (water)
+
+ - Dripping (blood)
+
+
+
+Player Sounds
+
+ - Sprinting steps
+
+ - Heavy breathing
+
+
+
+Antagonist Sounds
+
+ - Regular footsteps
+
+ - Slow and/or fast footsteps
+
+ - Voice lines
+
+ - Radio static
+
+ - Behavioural change indicator (maybe a screech?)
+
+ 
+
+Musical Sounds (sounds to be used in conjunction with the music)
+
+ - Heartbeat
+
+ - White noise
