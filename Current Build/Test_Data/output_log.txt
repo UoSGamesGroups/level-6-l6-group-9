@@ -6,17 +6,17 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     3072 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.043 seconds
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\Documents\Game Making\Unity\Unity Games\Horror Proto\Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\GitHub\level-6-l6-group-9\Current Build\Test_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
