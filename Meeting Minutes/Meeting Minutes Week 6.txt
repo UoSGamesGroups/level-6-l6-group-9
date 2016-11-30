@@ -1,0 +1,33 @@
+L6 - Group 9 - 30/11/16
+
+Max Bovis, Henry Hardy, Junior Shonowo, Chris Janes
+
+What Went Well:
+
+ - No programming problems
+ - Everyone clear on their tasks and what needs to happen next
+
+Issues:
+
+ - Models need to be updated
+ - Floor plans need to be worked on to achieve a more natural look
+
+Feedback:
+
+ - Everything looks to be going smoothly at the moment
+
+Plans For The Week:
+
+Max - Update the floor plan of the manor house level
+    - Write up an asset list for Junior
+    - Interior design of the first room
+    - Altering/finding sounds and making them implementable
+
+Henry - Updating door mechanics 
+      - Creating a loss condition
+      - Implementing the level design once that's been updated
+      - Creating textures for paintings
+
+Junior - Update current models so they fit the setting better and use less polys
+       - Continue creating the models required for the game
+       - Continue creating the textures required for the models
