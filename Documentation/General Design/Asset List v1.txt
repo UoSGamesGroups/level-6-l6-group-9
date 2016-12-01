@@ -1,0 +1,39 @@
+Asset List v1
+
+ - Chair (dining and office style)
+
+ - Lamp (standing, desk and wall)
+
+ - Bed (single and double sized)
+
+ - Wardrobe
+
+ - Door (+ doorframe?)
+
+ - Chest of drawers
+
+ - Desk table (small and large)
+
+ - Fireplace
+
+ - Dining table
+
+ - Leather Wingback chair
+
+ - Sink
+
+ - Bath
+
+ - Toilet
+
+ - Floor and wall textures (various of both)
+
+ - Decals (various blood textures, various rot/mould/moss textures)
+
+ - Boarded windows
+
+ - Chandelier?
+
+ - Kitchen counter + cupboards
+
+ - Stove oven
