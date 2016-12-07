@@ -1,0 +1,33 @@
+L6 - Group 9 - 07/12/16
+
+Max Bovis, Henry Hardy, Junior Shonowo
+
+What Went Well:
+
+ - Everyone happy with revised floor plan for the single level
+ - Email communication well used and Github organised (new folders added for Junior)
+ - Despite no meeting with tutor, eveyone still on point
+
+Issues: 
+
+ - Henry was absent for some time over the previous week
+ - Exporting models so they work in Unity can be difficult
+
+Feedback:
+
+ - N/A (Rob is ill)
+
+Plans For The Week:
+
+Max - Continue developing the interior of the level in detail
+         - Audacity sounds so they can be used in Unity 
+         - Update presentation for next week
+
+Henry - Implement the floor plan design with placeholder objects
+            - Fix door collisions
+            - Game loss mechanic
+            - Put textures on the paintings 
+
+Junior - Continue modelling from the asset list 
+           - Continue texturing the models
+           - Export completed models so they work in Unity
