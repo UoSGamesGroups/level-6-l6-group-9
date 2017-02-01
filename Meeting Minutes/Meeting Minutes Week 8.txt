@@ -1,0 +1,27 @@
+L6 - Group 9 - 01/02/17
+
+Max Bovis, Henry Hardy, Junior Shonowo, Rob Kurta, Chris Janes
+
+What Went Well:
+
+ - Lecturers feel that the game is progressing nicely
+ - Glad that we're aiming for a short experience
+
+Issues:
+
+ - Antagonist needs to be modelled, rigged and animated to get a real feel for the level of 
+   detail required in the rest of the textures
+ - Game needs to be brought to a point where it can be playtested
+
+Feedback:
+
+ - Game is a neat idea and is achievable
+ - Level of texture detail is essential to the rest of the game
+
+Plans For The Week:
+
+ Max - Get at minimum a basic level of interior design for the entire country house
+
+ Henry - Tweak code to run smoother
+
+ Junior - Model, texture and rig the antagonist
