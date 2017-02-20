@@ -1,0 +1,27 @@
+L6 - Group 9 - 15/02/17
+
+Max Bovis, Henry Hardy, Junior Shonowo, Chris Janes
+
+What Went Well:
+
+ - Chris liked what he saw of the gameplay that has been implemented
+ - All of the code is up to date and working
+
+Issues:
+
+ - Game needs to have the level implemented 
+ - Game needs models and textures 
+
+Feedback:
+
+ - Get on the models and textures, quickly
+
+Plans For The Week:
+
+ Max - Modelling and texturing to get a number of assets together
+
+ Henry - Tweak dust and other visual effects
+       - Finish level primitive
+       - Create asset list
+
+ Junior - Continue modelling, texturing and bone rigging the antagonist
