@@ -1,0 +1,28 @@
+L6 - Group 9 - 22/02/17
+
+Max Bovis, Henry Hardy, Junior Shonowo, Rob Kurta
+
+What Went Well:
+
+ - Rob believes the game has real potential
+ - Rob gave advice on how to playtest the game
+
+Issues:
+
+ - E-mail communication has been sparse and needs to increase
+ - Github needs to be more rigorously updated so that progress is visible
+
+Feedback:
+
+ - Feature completion needs to happen as soon as possible
+ - Playtesting can provide some real polish to the game, the more the better
+
+Plans For The Week:
+
+ Max - Continue modelling and texturing to get a number of implementable assets together
+       so that feature completion can occur
+
+ Henry - Finish level primitive
+       - Implement various assets
+
+ Junior - Finish the antagonist model so that it can be exported to Unity
