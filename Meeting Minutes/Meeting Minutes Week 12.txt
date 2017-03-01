@@ -1,0 +1,33 @@
+L6 - Group 9 - 01/03/2017
+
+Max Bovis, Henry Hardy, Junior Shonowo, Dave Pimm, Eddie Duggan
+
+What Went Well:
+
+ - We have a good logline
+ - The game is close to being really good
+ - Feedback was very helpful
+
+Issues:
+
+ - Tuesday sprints, need to get work done over the course of the week
+ - Uploading on GitHub needs to happen more
+ - Game needs polish
+
+Feedback:
+
+ - Don't make voice lines for the antagonist, just breathing makes him scarier
+ - Play with shadows to reduce visibility of the antagonist and create more ambiguity
+ - Apostraphes can indicate possession
+ - Fill out the level more with spaces and objects to facilitate gameplay
+
+Plans For The Week:
+
+ Max - Finish texturing current models
+     - Create assorted breathing sounds
+
+ Henry - Finish level primitive
+       - Continue with code tweaks to polish mechanics
+
+ Junior - Animating the antagonist
+        - Fixing the antagonist's collar
