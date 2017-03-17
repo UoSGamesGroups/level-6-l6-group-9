@@ -1,0 +1,23 @@
+L6 - Group 9 - 15/03/17
+
+Max Bovis, Tom Smith, George Davis, Shane Stephenson, Chris Janes
+
+What Went Well:
+
+ - The game's code is still just as good as the last time for my group and the other group
+
+Issues:
+
+ - The main coder was unavailable
+
+Feedback:
+
+ - Code is fine, game needs everything it needed last time, models and textures mostly
+
+Plans For The Week:
+
+ Max - Modelling and texturing of assets to fill out the level
+
+ Henry - Finish level primitive
+
+ Junior - Finishing antagonist export and modelling and texturing assets to fill out the level
