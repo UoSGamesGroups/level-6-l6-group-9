@@ -1,0 +1,29 @@
+L6 - Group 9 - 22/03/17
+
+Max Bovis, Henry Hardy, Rob Kurta
+
+What Went Well:
+
+ - Comms have been used
+ - Github layout id fine
+
+Issues:
+
+ - Junior didn't show up
+ - Game hasn't progressed too much
+ - Issue with last week's sprint
+
+Feedback: 
+
+ - Obtain needed assets online for free
+ - Start playtesting
+ - Identify major obstacles
+
+Plans For The Week:
+
+ Max - Find and download suitable free assets to fill out the game with (as close to our art style as possible)
+
+ Henry - Implement assets
+       - ADjust any coding or assets implementation as needed
+
+Junior - Adjust the antagonist model so it can be used in Unity
